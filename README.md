@@ -1,1 +1,1 @@
-# GeoSpactial-Data
+# GeoSpatial-Data
